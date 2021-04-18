@@ -180,7 +180,7 @@ msgstr "Setiap pemain butuh mengunggah replaynya sendiri agar terlihat di papan 
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr "Tolong"
+msgstr "Bantuan"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
@@ -188,15 +188,15 @@ msgstr "Multiplayer lokal"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Multiplayer lokal mendukung 2 pemain terhubung di jaringan wifi yang sama."
+msgstr "Multiplayer lokal mendukung 2 pemain yang terhubung di jaringan wifi yang sama."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr "Tolong multiplayer"
+msgstr "Bantuan multiplayer"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr "Satu pemain harus membuat ruang, yang pemain lain akan gabung"
+msgstr "Satu pemain harus membuat ruang, yang pemain lain akan bergabung"
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
@@ -244,7 +244,7 @@ msgstr "Mengunggah replay untuk %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Statistik"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -252,7 +252,7 @@ msgstr "Atur keyboard"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr "Pembidik mouse %s"
+msgstr "Bidikan mouse %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
@@ -316,7 +316,7 @@ msgstr "dunia"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr "Lengkahi"
+msgstr "Lewati"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -328,15 +328,15 @@ msgstr "Main"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr "Satu pemain"
+msgstr "Satu Pemain"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr "Buat ruang"
+msgstr "Membuat ruang"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr "Gagal untuk gabung ruang"
+msgstr "Gagal untuk gabung ke ruang"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
@@ -352,11 +352,11 @@ msgstr "Ruang penuh"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr "Ruangnya tidak ada lagi"
+msgstr "Ruangnya sudah tidak ada lagi"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr "Ruangan kadaluarsa"
+msgstr "Ruang telah kadaluarsa"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
@@ -364,7 +364,7 @@ msgstr "Kesalahan tidak diketahui"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr "Kau sudah ada didalam ruang!"
+msgstr "Anda sudah ada didalam ruang!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -372,7 +372,7 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr "2 ekstar huruf (Tidak harus):"
+msgstr "2 ekstra huruf (Tidak harus):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -396,7 +396,7 @@ msgstr "Musik"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr "Hubungan error"
+msgstr "Koneksi error"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
@@ -412,19 +412,19 @@ msgstr "Suara efek"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh KAU, Komunitasnya."
+msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh ANDA, Si Komunitas."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffExperimental#ffffffff level yang belum di rilis."
+msgstr "#ffff00ffExperimental#ffffffff level yang masih belum di rilis."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh ku (JF), dan bisa mendapatkan medali."
+msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh saya (JF), dan anda bisa dapatkan medali."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr "Tentang level ini"
+msgstr "Tentang jenis level"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
@@ -476,7 +476,7 @@ msgstr "Rekor dunia: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "Skor rata-rata"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -512,7 +512,7 @@ msgstr "Kontrol"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr "Mode pengembangan"
+msgstr "Mode pengembang"
 
 # screen_settings.cpp
 msgid "Language"
@@ -560,7 +560,7 @@ msgstr "Menunggu pemain lain..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr "Chek kotak surat mu!"
+msgstr "Cek inbox anda!"
 
 # screen_signin.cpp
 msgid "Email"
@@ -624,11 +624,11 @@ msgstr "Email verifikasi terkirim"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr "Semua medali mu disini."
+msgstr "Semua medali anda disini."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Gagal untuk mengunduh data cadangan"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -652,7 +652,7 @@ msgstr "Akun"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data mu"
+msgstr "Buat akun untuk memasang nama dan sinkronisasikan data anda"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
@@ -668,7 +668,7 @@ msgstr "Daftar"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr "Kau harus masuk akun agar dapat bermain online"
+msgstr "Anda harus masuk akun agar dapat bermain online"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
@@ -760,7 +760,7 @@ msgstr "Sinkronisasi"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr "Pelindung: %s"
+msgstr "Perisai: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
@@ -776,15 +776,15 @@ msgstr "T/A"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr "Pilih kesulitan kamu sendiri"
+msgstr "Pilih kesulitan anda sendiri"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr "Hindari semuanya dan kau akan baik baik saja"
+msgstr "Hindari semuanya dan anda akan baik-baik saja"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr "Ruang euclidean itu dilebih-lebihkan"
+msgstr "Ruang Euclidean telah overrated"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
@@ -792,11 +792,11 @@ msgstr "Hijau baik. Merah buruk"
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr "Hanya 32 detik dari keterampilan"
+msgstr "Hanya 32 detik tentang skill"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr "Mode Favorit ku"
+msgstr "Mode Favoritku"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
@@ -808,11 +808,11 @@ msgstr "Sebelumnya dikenal sebagai Assault"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3: Dimensi"
+msgstr "RIP GW3:Dimensions"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Bertahan 32 detik dengan trik yang sederhana"
+msgstr "Bertahan selama 32 detik dengan trik yang sederhana"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
@@ -844,7 +844,7 @@ msgstr "Tinggi"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Tinggi (Redup)"
 
 # renderer_types.cpp
 msgid "Minimal"
@@ -860,7 +860,7 @@ msgstr "Ultra rendah 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Ultra rendah 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
